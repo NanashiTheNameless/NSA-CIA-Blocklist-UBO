@@ -1,6 +1,6 @@
 ! Title: NSA CIA Blocklist UBO
 ! Description: NSA CIA Blocklist shittily ported to UBO
-! Version: 0
+! Version: 1
 
 
 ! # Junk Software Public License
